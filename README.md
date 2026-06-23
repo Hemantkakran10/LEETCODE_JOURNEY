@@ -15,4 +15,12 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
