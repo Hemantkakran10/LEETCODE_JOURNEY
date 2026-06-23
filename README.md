@@ -23,4 +23,8 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
