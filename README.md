@@ -12,6 +12,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0696-count-binary-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -55,4 +56,8 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
