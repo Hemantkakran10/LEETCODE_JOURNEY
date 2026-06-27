@@ -7,6 +7,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -38,6 +39,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Array
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3637-trionic-array-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -60,4 +62,8 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0696-count-binary-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
