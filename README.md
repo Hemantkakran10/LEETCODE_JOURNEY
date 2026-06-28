@@ -39,6 +39,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Array
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3637-trionic-array-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -66,4 +67,12 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
