@@ -46,6 +46,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3637-trionic-array-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -85,4 +86,24 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
