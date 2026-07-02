@@ -101,6 +101,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0112-path-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -129,4 +130,16 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
