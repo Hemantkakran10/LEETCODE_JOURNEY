@@ -6,6 +6,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -15,6 +16,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0696-count-binary-substrings](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0696-count-binary-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1189-maximum-number-of-balloons) |
@@ -89,6 +91,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
