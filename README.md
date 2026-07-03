@@ -32,6 +32,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -51,6 +52,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0051-n-queens) |
+| [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -86,10 +88,12 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
