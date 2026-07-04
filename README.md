@@ -46,6 +46,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
+| [0342-power-of-four](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0342-power-of-four) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -160,4 +161,12 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
