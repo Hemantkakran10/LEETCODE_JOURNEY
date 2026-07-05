@@ -167,6 +167,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
 |  |
 | ------- |
