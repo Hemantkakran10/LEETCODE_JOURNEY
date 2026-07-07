@@ -1,11 +1,21 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        long x = 0, s = 0;
-        for (char c : String.valueOf(n).toCharArray())
-            if (c != '0') {
-                x = x * 10 + c - '0';
-                s += c - '0';
+        long x = 0;
+        long sum = 0;
+        long place = 1;
+
+        while (n > 0) {
+            int d = n % 10;
+
+            if (d != 0) {
+                x = d * place + x;
+                place *= 10;
+                sum += d;
             }
-        return x * s;
+
+            n /= 10;
+        }
+
+        return x * sum;
     }
 }
