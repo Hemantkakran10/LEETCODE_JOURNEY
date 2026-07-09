@@ -60,6 +60,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0051-n-queens) |
 | [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0704-binary-search) |
@@ -93,6 +94,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0027-remove-element) |
 | [0696-count-binary-substrings](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0696-count-binary-substrings) |
 ## Enumeration
 |  |
