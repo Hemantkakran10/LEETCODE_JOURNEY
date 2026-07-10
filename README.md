@@ -36,6 +36,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -72,6 +73,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -96,6 +98,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | ------- |
 | [0027-remove-element](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0027-remove-element) |
 | [0696-count-binary-substrings](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0696-count-binary-substrings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -105,12 +108,14 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +127,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [0704-binary-search](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -158,6 +164,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -187,6 +194,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [0029-divide-two-integers](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0693-binary-number-with-alternating-bits) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
