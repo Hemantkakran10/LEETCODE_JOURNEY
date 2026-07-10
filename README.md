@@ -53,6 +53,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [0009-palindrome-number](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0342-power-of-four) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -63,6 +64,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | ------- |
 | [0027-remove-element](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0066-plus-one) |
 | [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1288-remove-covered-intervals) |
