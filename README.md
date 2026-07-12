@@ -212,6 +212,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0342-power-of-four) |
 ## Bucket Sort
 |  |
@@ -225,4 +226,8 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
