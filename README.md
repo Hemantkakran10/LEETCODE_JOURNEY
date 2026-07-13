@@ -109,6 +109,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
