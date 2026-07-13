@@ -59,6 +59,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -83,6 +84,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [3637-trionic-array-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0203-remove-linked-list-elements) |
+## Number Theory
+|  |
+| ------- |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 <!---LeetCode Topics End-->
