@@ -37,6 +37,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -56,6 +57,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [0029-divide-two-integers](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0342-power-of-four) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -78,6 +80,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
@@ -236,5 +239,6 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 <!---LeetCode Topics End-->
