@@ -64,6 +64,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [0027-remove-element](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0027-remove-element) |
 | [0696-count-binary-substrings](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/0696-count-binary-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [1331-rank-transform-of-an-array](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -245,4 +249,9 @@ A daily DSA grind — solving 1 LeetCode problem every day for 100 consecutive d
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemantkakran10/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
